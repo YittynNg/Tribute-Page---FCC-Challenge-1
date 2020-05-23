@@ -5,4 +5,4 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/Yittyn_Ng/pen/zYv
 FreeCodeCamp Challenge #1
 
 # Run app
-Clone this repo, open index.html in disc folder.
+Clone this repo, open 8*index.html** in disc folder.
