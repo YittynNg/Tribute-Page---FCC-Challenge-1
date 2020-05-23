@@ -1,0 +1,47 @@
+#main{
+  font-family:calibri;
+  font-size:17px;
+  text-align:center;
+  background-color:#eee;
+  border-radius:5px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+#title{
+  padding-top:15px;
+}
+
+#img-div{
+  background-color: white;
+  margin:10px;
+  padding-left:5px;
+  padding-right:5px;
+  padding-bottom:15px;
+}
+#image{
+  display:block;
+  max-width:100%;
+}
+
+#tribute-title{
+  padding:15px;
+  font-size:20px;
+} 
+
+#unordered-list{
+  text-align: left;
+  padding-left:10px;
+}
+
+li{
+  line-height:1.6;
+}
+
+#footer{
+  font-size:20px;
+  padding-bottom:15px;
+  padding-left:4px;
+  padding-right:4px;
+}
